@@ -13,9 +13,9 @@ Nowadays, I don't intend to make games on Roblox anymore, but I continue to do p
 # 💻 Languages & Tools
 ### Languages that I known:
 
-| JavaScript | Python | Lua |
-|-----|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/>   | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="55" height="55"/>     |
+| JavaScript | Python | Lua | HTML5 | CSS |
+|-----|-----|-----|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/>   | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS5"  alt="CSS5" width="55" height="55"/>
 
 ### Languages that I'm learning:
 | C++ |
