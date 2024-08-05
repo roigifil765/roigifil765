@@ -10,7 +10,7 @@ Until, in 2021, I join in a game jam created by Duolingo. With just 3 days to cr
 
 Nowadays, I don't intend to make games on Roblox anymore, but I continue to do programming projects with various languages such as Python, JavaScript and a few others.
 
-# 💻 Languages & Tools
+# 💻 Languages
 ### Languages that I known:
 
 | JavaScript | Python | Lua | HTML5 | CSS |
@@ -21,8 +21,3 @@ Nowadays, I don't intend to make games on Roblox anymore, but I continue to do p
 | C++ |
 |-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/>
-
-### Tools that I currently use for coding:
-| Visual Studio Code | ChatGPT |
-|------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/7b8b632b-9736-47b7-989a-181dfe354d02" title="ChatGPT"  alt="ChatGPT" width="55" height="55"/>
